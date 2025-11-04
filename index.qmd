@@ -1,6 +1,6 @@
 ---
-title: "Using Randomization"
-subtitle: "Stratification to Overcome A Common Cause Confounder"
+title: "Using Randomization & Stratification"
+subtitle: "To Overcome A Common Cause Confounder"
 format:
   html: default
 bibliography: references.bib
